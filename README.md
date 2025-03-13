@@ -45,11 +45,17 @@
 <h3 align="left">🔨Current Projects</h3>
 
 ###
-
-<p align="left">- Quantum Calculations at SuperPosition Labs<br>- SearchX on SentielX</p>
+<a href="https://github.com/SuperpositionLabs/quantum-calculations">
+<p align="left">- Quantum Calculations at SuperPosition Labs</p>
+</a>
+<a href="https://github.com/sentielxx">
+<p align="left">- SearchX on SentielX</p>
+</a>
 
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+
+<div align="center"><img src="https://streak-stats.demolab.com?user=proc0x41&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /></div>
