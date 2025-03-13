@@ -53,7 +53,3 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
-<a href="https://github-readme-streak-stats.herokuapp.com?user=proc0x41&theme=dark"><img src="https://git.io/streak-stats" alt="GitHub Streak" /></a>
-
-###
