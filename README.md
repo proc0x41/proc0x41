@@ -48,8 +48,8 @@
 <a href="https://github.com/SuperpositionLabs/quantum-calculations">
 <p align="left">- Quantum Calculations at SuperPosition Labs</p>
 </a>
-<a href="https://github.com/sentielxx">
-<p align="left">- SearchX on SentielX</p>
+<a href="https://github.com/ffx64/searchx-indexer">
+<p align="left">- Contributing on SearchX</p>
 </a>
 
 ###
