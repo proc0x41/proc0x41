@@ -1,61 +1,41 @@
-<div align="center">
-  <img height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8QCl_niWR-XE7VULESNQRgryVQirRwX-04A&s"  />
-</div>
+[![Visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitors&query=value&url=https://api.countapi.xyz/hit/proc0x41/readme)](https://github.com/proc0x41)
 
-###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=proc0x41.proc0x41&"  />
-</div>
+## Sobre
 
-###
+Sou um desenvolvedor com foco em BackEnd e particularmente adoro matemática. Atualmente estou estudando e tentando aplicar meus conhecimentos em um projeto de chat com conceitos complexos de criptografia.
 
-<h1 align="center">Proc0x41 / Arthur</h1>
+## Stack
 
-###
 
-<h3 align="left">👩‍💻  About Me</h3>
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![...](https://img.shields.io/badge/...-gray?style=for-the-badge)
 
-###
 
-<p align="left">I'm Arthur from Brazil.<br><br>- 🔭 I’m working in some projects.<br>- 📚 I'm currently learning quantum physics.<br>- ⚡ In my free time I do some calculus.</p>
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-###
 
-<h3 align="left">🛠 Language and tools</h3>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-###
+## Projetos
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
-</div>
+- **[Quantum Calculations](https://github.com/SuperpositionLabs/quantum-calculations)** — Pesquisa na SuperPosition Labs
+- **[SearchX Indexer](https://github.com/ffx64/searchx-indexer)** — Contribuidor open source
 
-###
+## Contato
 
-<h3 align="left">🔨Current Projects</h3>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatoarthurmendesgarcia@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDY0IDIuMDY0IDAgMCAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMSAxIDIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yMDggMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIwOCAwIDIyLjIyMiAweiIvPjwvc3ZnPg==&logoColor=white)](https://www.linkedin.com/in/arthur-mendes-garcia-bb32891b4/)
 
-###
-<a href="https://github.com/SuperpositionLabs/quantum-calculations">
-<p align="left">- Quantum Calculations at SuperPosition Labs</p>
-</a>
-<a href="https://github.com/ffx64/searchx-indexer">
-<p align="left">- Contributing on SearchX</p>
-</a>
+---
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center"><img src="https://streak-stats.demolab.com?user=proc0x41&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /></div>
+<p align="center">
+  <i>Aberto a colaborações em projetos .NET e desenvolvimento backend.</i>
+</p>
