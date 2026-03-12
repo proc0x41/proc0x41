@@ -21,11 +21,6 @@ Sou um desenvolvedor com foco em BackEnd e particularmente adoro matemática. At
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## Projetos
-
-- **[Quantum Calculations](https://github.com/SuperpositionLabs/quantum-calculations)** — Pesquisa na SuperPosition Labs
-- **[SearchX Indexer](https://github.com/ffx64/searchx-indexer)** — Contribuidor open source
-
 ## Contato
   <p>Aberto a colaborações em projetos .NET e desenvolvimento backend.</p>
 
